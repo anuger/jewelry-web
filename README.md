@@ -1,21 +1,21 @@
 # 珠宝下单系统
 
-## Project setup
-```
-npm install
-```
+## 项目介绍
+该系统是为珠宝工厂和珠宝定制商户提供的定制化系统，有商户端，工厂端，小程序和SAAS端。于商户端来说，主要有快速下单，随时查看进度，数据统计和账单计算等功能；于工厂端来说，主要有快速接单，过程可视化和数据统计等功能。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 商户端功能列表
+1. 订单管理
+2. 财务管理
+2. 版库
+3. 渠道管理
+4. 经销商管理
+... 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+## 功能截图
+登录
+<img width="1006" alt="image" src="https://user-images.githubusercontent.com/24793128/197399750-a113ae96-98fb-42d9-9a7a-f1ff0c8251e6.png">
+首页统计
+订单管理
+财务管理
+版库
+设置页面
